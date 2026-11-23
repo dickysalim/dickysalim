@@ -8,7 +8,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-![Open to work](https://img.shields.io/badge/Open_to-Freelance_%26_Full--time-2ea44f?style=flat-square)
+![Open to work](https://img.shields.io/badge/Open_to-Freelance_%26_Part--time-2ea44f?style=flat-square)
 ![Location](https://img.shields.io/badge/Based_in-Indonesia-informational?style=flat-square)
 
 </div>
