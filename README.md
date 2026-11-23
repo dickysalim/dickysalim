@@ -15,9 +15,9 @@
 
 ## I understand people and processes. Then I build systems optimized for growth.
 
-<img src="assets/workflow.svg" alt="Discover, Prototype, Simplify, Automate" width="100%"/>
-
 I design and ship custom systems that bring clarity to a business, simplify and automate its processes, and get it ready to scale. I build for teams that collaborate across departments, and help them actually adopt the technology.
+
+<img src="assets/workflow.svg" alt="Discover, Prototype, Simplify, Automate" width="100%"/>
 
 ### How I got started
 
