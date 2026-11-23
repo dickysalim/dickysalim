@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150" role="img" aria-label="Workflow: Discover, Automate, Optimize">
+  <defs>
+    <style>
+      .t{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif}
+      .box{fill:#14192e;stroke:#F38020;stroke-width:2}
+      .h{font-size:24px;font-weight:700;fill:#fff}
+      .d{font-size:14px;fill:#b9bfd6}
+      .flow{stroke:#F38020;stroke-width:3;fill:none;stroke-dasharray:8 8;animation:dash 1s linear infinite}
+      @keyframes dash{to{stroke-dashoffset:-16}}
+      .pulse{animation:p 3s ease-in-out infinite}
+      .p2{animation-delay:1s}.p3{animation-delay:2s}
+      @keyframes p{0%,100%{stroke-width:2}33%{stroke-width:5}}
+    </style>
+  </defs>
+  <g class="t">
+    <rect class="box pulse" x="20" y="25" width="270" height="100" rx="14"/>
+    <text class="h" x="155" y="68" text-anchor="middle">1. Discover</text>
+    <text class="d" x="155" y="98" text-anchor="middle">Map how the process really runs</text>
+    <path class="flow" d="M295 75 H355"/>
+    <rect class="box pulse p2" x="365" y="25" width="270" height="100" rx="14"/>
+    <text class="h" x="500" y="68" text-anchor="middle">2. Automate</text>
+    <text class="d" x="500" y="98" text-anchor="middle">Replace manual steps with systems</text>
+    <path class="flow" d="M640 75 H700"/>
+    <rect class="box pulse p3" x="710" y="25" width="270" height="100" rx="14"/>
+    <text class="h" x="845" y="68" text-anchor="middle">3. Optimize</text>
+    <text class="d" x="845" y="98" text-anchor="middle">Simplify, measure, get ready to scale</text>
+  </g>
+</svg>
