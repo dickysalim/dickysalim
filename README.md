@@ -1,16 +1,55 @@
-## Hi there 👋
+# Custom Full-Stack Cloudflare Solutions Builder for Business Owners
 
-<!--
-**dickysalim/dickysalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My workflow
 
-Here are some ideas to get you started:
+**Discover → Automate → Optimize**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a process-oriented builder. I build systems that help businesses automate their processes, see them clearly, simplify them, and get ready to scale.
+
+## Tech stack
+
+**Database**
+PostgreSQL, MongoDB, Cloudflare D1 (SQLite)
+
+**Backend**
+JavaScript, TypeScript, Cloudflare Workers
+
+**Frontend**
+HTML, React, Cloudflare Pages
+
+**Mobile**
+Flutter
+
+**Automation**
+n8n
+
+## Selected work
+
+> Client names omitted. Replace each placeholder with the portfolio link and screenshot.
+
+### [PROJECT 1 TITLE]
+[SCREENSHOT OR GIF]
+
+[ONE-LINE WHAT IT DOES AND THE RESULT]
+
+`[TECH 1]` `[TECH 2]` `[TECH 3]` · [Case study link]
+
+### [PROJECT 2 TITLE]
+[SCREENSHOT OR GIF]
+
+[ONE-LINE WHAT IT DOES AND THE RESULT]
+
+`[TECH 1]` `[TECH 2]` `[TECH 3]` · [Case study link]
+
+### [PROJECT 3 TITLE]
+[SCREENSHOT OR GIF]
+
+[ONE-LINE WHAT IT DOES AND THE RESULT]
+
+`[TECH 1]` `[TECH 2]` `[TECH 3]` · [Case study link]
+
+## Contact
+
+- Upwork: [YOUR UPWORK LINK]
+- Portfolio: [YOUR DOMAIN]
+- Email: [YOUR PUBLIC EMAIL]
