@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Dicky Salim - Custom Full-Stack Cloudflare Solutions Builder" width="100%"/>
+<img src="assets/header.svg" alt="Dicky Salim - Custom Full-Stack Cloudflare Solutions Builder" width="720"/>
 
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@
 
 I design and ship custom systems that bring clarity to a business, simplify and automate its processes, and get it ready to scale. I build for teams that collaborate across departments, and help them actually adopt the technology.
 
-<img src="assets/workflow.svg" alt="Discover, Prototype, Simplify, Automate" width="100%"/>
+<img src="assets/workflow.svg" alt="Discover, Prototype, Simplify, Automate" width="560"/>
 
 ### How I got started
 
