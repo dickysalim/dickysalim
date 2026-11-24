@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="150" viewBox="0 0 1040 150" role="img" aria-label="Workflow: Discover, Prototype, Simplify, Automate">
+  <defs>
+    <style>
+      .t{font-family:-apple-system,Segoe UI,Helvetica,Arial,sans-serif}
+      .box{fill:#14192e;stroke:#F38020;stroke-width:2}
+      .h{font-size:24px;font-weight:700;fill:#fff}
+      .d{font-size:14px;fill:#b9bfd6}
+      .flow{stroke:#F38020;stroke-width:3;fill:none;stroke-dasharray:8 8;animation:dash 1s linear infinite}
+      @keyframes dash{to{stroke-dashoffset:-16}}
+      .pulse{animation:p 4s ease-in-out infinite}
+      @keyframes p{0%,100%{stroke-width:2}25%{stroke-width:5}}
+    </style>
+  </defs>
+  <g class="t">
+    <rect class="box pulse" style="animation-delay:0s" x="10" y="25" width="220" height="100" rx="14"/>
+    <text class="h" x="120" y="68" text-anchor="middle">1. Discover</text>
+    <text class="d" x="120" y="98" text-anchor="middle">Find where work gets stuck</text>
+    <path class="flow" d="M234 75 H276"/>
+    <rect class="box pulse" style="animation-delay:1s" x="280" y="25" width="220" height="100" rx="14"/>
+    <text class="h" x="390" y="68" text-anchor="middle">2. Prototype</text>
+    <text class="d" x="390" y="98" text-anchor="middle">Make the process visible</text>
+    <path class="flow" d="M504 75 H546"/>
+    <rect class="box pulse" style="animation-delay:2s" x="550" y="25" width="220" height="100" rx="14"/>
+    <text class="h" x="660" y="68" text-anchor="middle">3. Simplify</text>
+    <text class="d" x="660" y="98" text-anchor="middle">Cut what doesn't matter</text>
+    <path class="flow" d="M774 75 H816"/>
+    <rect class="box pulse" style="animation-delay:3s" x="820" y="25" width="220" height="100" rx="14"/>
+    <text class="h" x="930" y="68" text-anchor="middle">4. Automate</text>
+    <text class="d" x="930" y="98" text-anchor="middle">Let systems do the work</text>
+  </g>
+</svg>

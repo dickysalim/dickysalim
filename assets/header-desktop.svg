@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Dicky Salim, Custom Full-Stack Cloudflare Solutions Builder">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F38020"/><stop offset="1" stop-color="#FAAD3F"/></linearGradient>
+    <linearGradient id="band" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.05"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <pattern id="scan" width="4" height="3" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity="0.28"/></pattern>
+    <style>
+      .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+      .art{font-size:16px;fill:url(#g);font-weight:700}
+      .dim{font-size:14px;fill:#6b7394}
+      .green{font-size:15px;fill:#7ee787}
+      .txt{font-size:17px;fill:#e6e9f5}
+      .org{fill:#F38020}
+      .cur{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      .crt{animation:crt 5s steps(1) infinite}
+      @keyframes crt{0%,100%{opacity:1}7%{opacity:.9}8%{opacity:1}41%{opacity:.93}42%{opacity:1}43%{opacity:.88}44%{opacity:1}77%{opacity:.94}78%{opacity:1}}
+      .sweep{animation:sweep 4.5s linear infinite}
+      @keyframes sweep{from{transform:translateY(-60px)}to{transform:translateY(330px)}}
+      .fk{fill:#0d1117;opacity:0;animation-name:fk;animation-iteration-count:infinite;animation-timing-function:steps(1)}
+      @keyframes fk{0%,94%{opacity:0}95%{opacity:.7}97%{opacity:.15}98%{opacity:.7}99.5%,100%{opacity:0}}
+    </style>
+    <clipPath id="r0"><rect x="24" y="49" width="0" height="23"><animate attributeName="width" values="0;9;18;27;36;45;54;63;72" calcMode="discrete" dur="0.35s" begin="0.15s" fill="freeze"/></rect></clipPath><clipPath id="r1"><rect x="24" y="83" width="0" height="22"><animate attributeName="width" values="0;10;19;29;38;48;58;67;77;86;96;106;115;125;134;144;154;163;173;182;192;202;211;221;230;240;250;259;269;278;288;298;307;317;326;336;346;355;365;374;384;394;403;413;422;432;442;451;461;470;480;490;499;509;518;528;538;547;557;566;576;586;595;605;614;624;634;643;653;662;672" calcMode="discrete" dur="0.23s" begin="0.6s" fill="freeze"/></rect></clipPath><clipPath id="r2"><rect x="24" y="104" width="0" height="22"><animate attributeName="width" values="0;10;19;29;38;48;58;67;77;86;96;106;115;125;134;144;154;163;173;182;192;202;211;221;230;240;250;259;269;278;288;298;307;317;326;336;346;355;365;374;384;394;403;413;422;432;442;451;461;470;480;490;499;509;518;528;538;547;557;566;576;586;595;605;614;624;634;643;653;662;672" calcMode="discrete" dur="0.23s" begin="0.8s" fill="freeze"/></rect></clipPath><clipPath id="r3"><rect x="24" y="125" width="0" height="22"><animate attributeName="width" values="0;10;19;29;38;48;58;67;77;86;96;106;115;125;134;144;154;163;173;182;192;202;211;221;230;240;250;259;269;278;288;298;307;317;326;336;346;355;365;374;384;394;403;413;422;432;442;451;461;470;480;490;499;509;518;528;538;547;557;566;576;586;595;605;614;624;634;643;653;662;672" calcMode="discrete" dur="0.23s" begin="1.0s" fill="freeze"/></rect></clipPath><clipPath id="r4"><rect x="24" y="146" width="0" height="22"><animate attributeName="width" values="0;10;19;29;38;48;58;67;77;86;96;106;115;125;134;144;154;163;173;182;192;202;211;221;230;240;250;259;269;278;288;298;307;317;326;336;346;355;365;374;384;394;403;413;422;432;442;451;461;470;480;490;499;509;518;528;538;547;557;566;576;586;595;605;614;624;634;643;653;662;672" calcMode="discrete" dur="0.23s" begin="1.2s" fill="freeze"/></rect></clipPath><clipPath id="r5"><rect x="24" y="167" width="0" height="22"><animate attributeName="width" values="0;10;19;29;38;48;58;67;77;86;96;106;115;125;134;144;154;163;173;182;192;202;211;221;230;240;250;259;269;278;288;298;307;317;326;336;346;355;365;374;384;394;403;413;422;432;442;451;461;470;480;490;499;509;518;528;538;547;557;566;576;586;595;605;614;624;634;643;653;662;672" calcMode="discrete" dur="0.23s" begin="1.4s" fill="freeze"/></rect></clipPath><clipPath id="r6"><rect x="24" y="203" width="0" height="27"><animate attributeName="width" values="0;10;20;31;41;51;61;71;82;92;102;112;122;133;143;153;163;173;184;194;204;214;224;235;245;255;265;275;286;296;306;316;326;337;347;357;367;377;388;398;408;418;428;439;449;459;469;479;490" calcMode="discrete" dur="0.5s" begin="1.67s" fill="freeze"/></rect></clipPath><clipPath id="r7"><rect x="24" y="233" width="0" height="27"><animate attributeName="width" values="0;10;20;31;41;51;61;71;82;92;102;112;122;133;143;153;163;173;184;194;204;214;224;235;245;255;265;275;286;296;306;316;326;337;347;357;367;377;388;398;408;418;428;439;449;459;469;479;490;500;510;520;530;541" calcMode="discrete" dur="0.55s" begin="2.25s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c"><rect width="1000" height="330" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="330" fill="#0d1117"/>
+    <rect width="1000" height="34" fill="#161b22"/>
+    <circle cx="22" cy="17" r="6" fill="#ff5f56"/><circle cx="44" cy="17" r="6" fill="#ffbd2e"/><circle cx="66" cy="17" r="6" fill="#27c93f"/>
+    <text class="m dim" x="500" y="22" text-anchor="middle">dicky@cloudflare: ~</text>
+    <g class="m crt">
+    <text class="green" clip-path="url(#r0)" x="24" y="66" xml:space="preserve">$ whoami</text>
+    <text class="art" clip-path="url(#r1)" x="24" y="100" xml:space="preserve">████   █████   ████  █   █  █   █     ████   ███   █      █████  █   █</text>
+    <text class="art" clip-path="url(#r2)" x="24" y="121" xml:space="preserve">█   █    █    █      █  █    █ █     █      █   █  █        █    ██ ██</text>
+    <text class="art" clip-path="url(#r3)" x="24" y="142" xml:space="preserve">█   █    █    █      ███      █       ███   █████  █        █    █ █ █</text>
+    <text class="art" clip-path="url(#r4)" x="24" y="163" xml:space="preserve">█   █    █    █      █  █     █          █  █   █  █        █    █   █</text>
+    <text class="art" clip-path="url(#r5)" x="24" y="184" xml:space="preserve">████   █████   ████  █   █    █      ████   █   █  █████  █████  █   █</text>
+    <rect class="fk" style="animation-duration:7.4s;animation-delay:6.2s" x="446.4" y="108" width="9.6" height="16"/><rect class="fk" style="animation-duration:9.2s;animation-delay:3.3s" x="408.0" y="87" width="9.6" height="16"/><rect class="fk" style="animation-duration:10.0s;animation-delay:3.2s" x="62.4" y="129" width="9.6" height="16"/><rect class="fk" style="animation-duration:9.6s;animation-delay:3.4s" x="686.4" y="150" width="9.6" height="16"/><rect class="fk" style="animation-duration:7.5s;animation-delay:5.5s" x="110.4" y="87" width="9.6" height="16"/>
+    <text class="txt" clip-path="url(#r6)" x="24" y="222" xml:space="preserve"><tspan class="org">&gt;</tspan> Custom Full-Stack Cloudflare Solutions Builder</text>
+    <text class="txt" clip-path="url(#r7)" x="24" y="252" xml:space="preserve"><tspan class="org">&gt;</tspan> Discover  ::  Prototype  ::  Simplify  ::  Automate</text>
+    <text class="green" x="24" y="296" opacity="0" xml:space="preserve">$ <tspan class="cur">█</tspan><animate attributeName="opacity" from="0" to="1" dur="0.01s" begin="2.90s" fill="freeze"/></text>
+    </g>
+    <rect width="1000" height="330" fill="url(#scan)"/>
+    <rect class="sweep" width="1000" height="60" fill="url(#band)"/>
+  </g>
+</svg>
